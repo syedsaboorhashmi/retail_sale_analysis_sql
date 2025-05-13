@@ -87,8 +87,6 @@ WHERE
     total_sale IS NULL;
 
 SELECT COUNT(*) FROM retail_sales	
-    
--- Data Exploration
 
 -- How many sales we have?
 
